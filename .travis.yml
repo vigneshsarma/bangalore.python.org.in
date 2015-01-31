@@ -1,0 +1,8 @@
+language: python
+node_js:
+  - '2.7'
+script: deploy
+env:
+ global:
+   - GH_REF: github.com/vigneshsarma/bangalore.python.org.in
+   - secure: Y/BnHqmNv5EN4YGb0lZNthP+Q9SiadKPQAi3G6zv8ZReQoiAonbmgjUzxzkKTXwVILwGsSL0JfZs97wJ1mIU+J8zypTNz/ciflkle66o2a8/DccaZycNoVH5xrlCmPG+MdlyGIAHE86KCTeUbdtA/LbXOXtlDgb5LS+pAEMTakU=
