@@ -1,7 +1,7 @@
 language: python
 node_js:
   - '2.7'
-script: deploy
+script: ./deploy
 env:
  global:
    - GH_REF: github.com/vigneshsarma/bangalore.python.org.in
