@@ -1,0 +1,4 @@
+[submodule "out"]
+	path = out
+	url = https://github.com/vigneshsarma/bangalore.python.org.in
+	branch = gh-pages
